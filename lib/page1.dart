@@ -37,7 +37,7 @@ class screen1 extends StatelessWidget {
           Container(
             decoration: BoxDecoration(boxShadow: [
               BoxShadow(
-                color: Colors.white.withOpacity(0.3),
+                color: Colors.white.withOpacity(0),
                 spreadRadius: 5,
                 blurRadius: 20,
                 offset: const Offset(0, 30),
